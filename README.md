@@ -3,7 +3,7 @@
 
 This web site is a demo for interview examiners.
 
-It is a website of a information technologies tranning organization. Please note that this organization does not exists and this website is totally for interviewing.
+It is a website of an information technologies tranning organization. Please note that this organization does not exists and this website is totally for interviewing.
 
 ## Packages
 
