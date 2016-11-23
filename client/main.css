@@ -1,0 +1,88 @@
+/* CSS declarations go here */
+@import "guide.css";
+
+.sectionmain {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url('/resources/background-space.jpg');
+}
+
+.sectionborder {
+  border-left: 5px solid #00bcd4;
+  padding-left: 1rem;
+  border-radius: 5px;
+}
+
+.sectiontitle {
+  font-family: Lora,Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  line-height: 50px;
+  margin: 0 0 10px;
+}
+
+div.subject {
+  width: 95%;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+}
+
+div.subject-header {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-size: cover;
+  height: 70px;
+}
+
+.subjec-title {
+
+}
+
+.subject-title:hover {
+  text-decoration: underline;
+}
+
+div.subject-body {
+  color: #37474f;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28px;
+  min-height: 112px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: solid 1px #E0E0E0;
+}
+
+div.subject-footer {
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+a.subject-related-tags {
+  color: #5c7b89;
+  font-weight: 700;
+  font-size: 14px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  padding: 5px 20px 5px 5px;
+  text-transform: uppercase;
+}
+
+a.subject-related-tags:hover {
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 600px) {
+  .subjectlists {
+    margin-left: -35px;
+  }
+  .sectionmain {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 840px) {
+  .introductionnews {
+    visibility: hidden;
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "elements": {
+    "forlayouts": {
+      "icondrawerbutton": {
+        "tooltip": "Navigation Bar"
+      },
+      "drawerrightelementlinks": {
+        "home": "Home",
+        "subjects": "Subjects",
+        "guides": "Guides",
+        "blog": "BLOG"
+      },
+      "drawercontent": {
+        "home": "Home",
+        "subjects": "Subjects",
+        "guides": "Guides",
+        "blog": "BLOG",
+        "close": "Close"
+      }
+    },
+    "forhomepage": {
+      "introductionpart": {
+        "slogan": "Learn Skills With Practitioner",
+        "introduction": "Learn with Parctitioner Hand by Hand"
+      },
+      "newspart": {
+        "title": "From the Blog"
+      },
+      "subjectstitlepart": {
+        "title": "Subjected Courses",
+        "content": "Explore popular courses that are suggested by our users and editors",
+        "find": "Find More"
+      },
+      "guidestitlepart": {
+        "title": "Get Started",
+        "content": "tr:SK aims to eliminate the gap between the teachers' abilities and learner's needs. Beginners can pay a fair price to learn with practitioners rather than much money to learn with a specilitiest",
+        "find": "EXPLORE"
+      },
+      "guidesspecificationpart": {
+        "one": {
+          "title": "oneTitle",
+          "content": {
+            "one": "one",
+            "two": "two"
+          }
+        },
+        "two": {
+          "title": "twoTitle",
+          "content": {
+            "one": "one",
+            "two": "two",
+            "three": "three"
+          }
+        }
+      },
+      "subscribesubpart": {
+        "success": "Successfully Subscribe",
+        "floatingtext": "Email Address",
+        "hinttext": "example@your-domain.com",
+        "buttontext": "Subscribe",
+        "termtext": "I accept the Terms and Conditions and acknowledge that my information will be used in accordance with J&R Studio's Privacy Policy.",
+        "errortext": "Please input a valid email address"
+      },
+      "subscriberegisterpart": {
+        "username": {
+          "floatingtext": "User Name",
+          "hinttext": "Please input an alphanumeric name",
+          "errortext": "Please input an alphanumeric name"
+        },
+        "email": {
+          "hinttext": "example@yourdomain.com",
+          "floatingtext": "Email Address",
+          "errortext": "Please Input A Valid Email Address"
+        },
+        "password": {
+          "hinttext": "WV95yqh34y2JVTuG",
+          "floatingtext": "Password",
+          "errortext": "Please choose a strong password"
+        },
+        "confirmpassword": {
+          "hinttext": "WV95yqh34y2JVTuG",
+          "floatingtext": "Confirm Your Password",
+          "errortext": "Please input the same password as above"
+        },
+        "term": "I accept the Terms and Conditions and acknowledge that my information will be used in accordance with J&R Studio's Privacy Policy.",
+        "submit": "Register",
+        "respond": {
+          "inferror": "Ops. Please check your register information",
+          "success": "Successfully Register",
+          "error": "Error occours, please try again"
+        }
+      }
+    }
+  },
+  "pages": {
+    "homesubpages": {
+      "subscribesubpage": {
+        "register": "Register",
+        "subscribe": "Subscribe"
+      }
+    },
+    "subjectspage": {
+      "subjectstitle": {
+        "title": "Subjects",
+        "content": "Read introduction of our courses to find out stories behind us."
+      },
+      "subjectslist": {
+        "title": "Subjects",
+        "content": "Currently, we only deliver two subjects -- Android Developement and ReactJS Tutorial.",
+        "subjectitem": {
+          "react": "React",
+          "reactbody": "React is a Javascript library for building user interfaces. It is developed by Facebook and widely used in Facebook's products. Now, it becomes one of the most popular front-end development tools with excellent propties -- Declarative, Component-Based and Practicality. You can write colorful web sites and powerful mobile apps once learnt React."
+        }
+      }
+    },
+    "reactcoursepage": {
+      "introduction": "Why React",
+      "target": "Target",
+      "schedule": "Schedule",
+      "fees": "Fees",
+      "ongoing": "On Going",
+      "next": "Next",
+      "back": "Back"
+    }
+  },
+  "server": {
+    "email": {
+      "unsubscribe": "Unsubscribe",
+      "questions": "Any questions, comments, concerns?",
+      "contact": "Contact our support staff at ",
+      "emailaddress": "zhaochenxu001@gmail.com",
+      "privacy": "Privacy policy"
+    },
+    "verifyemail": {
+      "subject": "J&R Studio Verification Email",
+      "student": {
+        "title": "Welcome to J&R Studio, ",
+        "content": "Thank you for joinning J&R Studio. We will serve you with advanced knowledge",
+        "actions": "Verify Your Eamil Address"
+      },
+      "subscriber": {
+        "subject": "Subscribe Confirmation",
+        "title": "Thank you for subscribing J&R Studio, ",
+        "actions": "Visit Home Page",
+        "content": "Thank you for subscribing. Get the latest content and occasional inspiration from us in your inbox. If you want to join us, please click the button and sign up in our home page."
+      }
+    }
+  },
+  "shared": {
+    "loading": "loading"
+  }
+}
